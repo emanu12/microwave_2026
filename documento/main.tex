@@ -1,0 +1,28 @@
+\documentclass[11pt]{article}
+
+% Importing document settings from our file "packages.sty"
+\usepackage{packages}
+\usepackage{float}
+\usepackage{siunitx}
+% Beginning of document
+\begin{document}
+\frontmatter
+% Inserting title page
+\import{./}{title_page.tex}
+\setcounter{tocdepth}{2} % Indice 
+
+\tableofcontents
+
+% Defining front matter settings (Norsk: innstillinger for forord m.m.)
+
+\mainmatter
+
+%\import{./sections}{lab1.tex}
+% Inserting table of contents
+% \renewcommand{\contentsname}{indice}
+% \tableofcontents
+
+% Defining main matter settings (Norsk: innstillinger for hoveddelen av teksten)
+
+
+\end{document}
