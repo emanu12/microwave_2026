@@ -1,0 +1,20 @@
+\babel@toc {british}{}\relax 
+\contentsline {section}{\numberline {1}Introduction to RF and microwave integrated circuits}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Define RF, microwaves and millimeter waves from the standpoint of frequency allocation.}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2} Suppose a radar has to be designed to detect objects of the average size of 1 cm: is an RF operating frequency adequate to this? Explain why/why not. Suggest if the case a more suitable frequency range.}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Identify the L and the K bands (frequency limits). In what frequency band are GSM cellphones operating?}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Explain why signals cannot conveniently transmitted in baseband through a Hertzian channel, but rather they have to be upconverted through analog or digital modulations. Assume as an example e.g. a hi-fi signal with frequency between DC and 20 kHz.}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5} Explain why transmitting the human voice in baseband through a portable phone would be for many reasons unpractical.}{2}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}In a cellular system each cell exploits the same frequency bands (e.g. around 2 GHz). Explain how there is no interference between di§erent users in the same cell and between nearby cells.}{2}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Describe a basic RF RX/TX (receiver/transmitter) scheme}{2}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8} List the basic RX section building blocks, starting from the antenna down to the downconversion mixer}{2}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}List the basic TX section building blocks, starting from the upconversion mixer up to the antenna}{3}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}What is the difference between a homodyne ad a heterodyne receiver?}{3}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}What is the difference between a low noise, high gain and maximum power amplifier?}{4}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}What are the typical features of planar vs. waveguide microwave circuits}{4}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13} Explain the differences between a hybrid and a monolithic microwave circuit.}{4}{subsection.1.13}%
+\contentsline {subsection}{\numberline {1.14}List in order of increasing frequency range the following semiconductors: indium phosphide, silicon, gallium arsenide}{4}{subsection.1.14}%
+\contentsline {subsection}{\numberline {1.15}Explain the difference between a lumped and a distributed-parameter circuit. Why distributed elements cannot be integrated in an RF circuit?}{5}{subsection.1.15}%
+\contentsline {subsection}{\numberline {1.16}Quote a few microwave field-effect or bipolar transistors with the related semiconductor material.}{5}{subsection.1.16}%
+\contentsline {subsection}{\numberline {1.17}Explain the difference between analog large-signal and small-signal models. Clarify what model is linear and what model is nonlinear.}{5}{subsection.1.17}%
+\contentsline {subsection}{\numberline {1.18}Explain the difference between a memoriless model and a model with memory.}{5}{subsection.1.18}%
